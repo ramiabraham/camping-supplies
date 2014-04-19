@@ -1,4 +1,4 @@
-camping-supplies
+Camping Supplies
 ================
 
 ## A list of supplies for camping
@@ -29,4 +29,6 @@ camping-supplies
 * Musical instrument(s)
 * Coffe roaster
 * French Press
-* 
+* Oven mitts and towels
+* Bathing suits
+* Fishing gear optional
