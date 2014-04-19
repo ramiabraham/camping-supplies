@@ -27,7 +27,7 @@ Camping Supplies
 * 3 water bottles
 * Toiletries
 * Musical instrument(s)
-* Coffe roaster
+* Coffee roaster
 * French Press
 * Oven mitts and towels
 * Bathing suits
