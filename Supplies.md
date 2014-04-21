@@ -17,6 +17,10 @@ Camping Supplies
 * Potatoes
 * Perhaps other assorted veggies
 * Cheddar cheese
+* Dozen eggs
+* Ground beef or sausage
+* Salmon or other fish filets - 3
+* Butter or olive oil
 
 ### Utensils
 
@@ -32,3 +36,4 @@ Camping Supplies
 * Oven mitts and towels
 * Bathing suits
 * Fishing gear optional
+* Large iron skillet
